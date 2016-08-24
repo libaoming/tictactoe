@@ -12,6 +12,9 @@
 		9A48A8C41D6D47E500C73B09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A48A8C21D6D47E500C73B09 /* Main.storyboard */; };
 		9A48A8C61D6D47E500C73B09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A48A8C51D6D47E500C73B09 /* Assets.xcassets */; };
 		9A48A8C91D6D47E500C73B09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A48A8C71D6D47E500C73B09 /* LaunchScreen.storyboard */; };
+		9A48A8D31D6D47F500C73B09 /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A48A8D01D6D47F500C73B09 /* board.png */; };
+		9A48A8D41D6D47F500C73B09 /* cross.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A48A8D11D6D47F500C73B09 /* cross.png */; };
+		9A48A8D51D6D47F500C73B09 /* nought.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A48A8D21D6D47F500C73B09 /* nought.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		9A48A8C51D6D47E500C73B09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A48A8C81D6D47E500C73B09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A48A8CA1D6D47E500C73B09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A48A8D01D6D47F500C73B09 /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
+		9A48A8D11D6D47F500C73B09 /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cross.png; sourceTree = "<group>"; };
+		9A48A8D21D6D47F500C73B09 /* nought.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nought.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 		9A48A8BD1D6D47E500C73B09 /* TicTacToe */ = {
 			isa = PBXGroup;
 			children = (
+				9A48A8D01D6D47F500C73B09 /* board.png */,
+				9A48A8D11D6D47F500C73B09 /* cross.png */,
+				9A48A8D21D6D47F500C73B09 /* nought.png */,
 				9A48A8BE1D6D47E500C73B09 /* AppDelegate.swift */,
 				9A48A8C01D6D47E500C73B09 /* ViewController.swift */,
 				9A48A8C21D6D47E500C73B09 /* Main.storyboard */,
@@ -123,6 +132,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A48A8D41D6D47F500C73B09 /* cross.png in Resources */,
+				9A48A8D31D6D47F500C73B09 /* board.png in Resources */,
+				9A48A8D51D6D47F500C73B09 /* nought.png in Resources */,
 				9A48A8C91D6D47E500C73B09 /* LaunchScreen.storyboard in Resources */,
 				9A48A8C61D6D47E500C73B09 /* Assets.xcassets in Resources */,
 				9A48A8C41D6D47E500C73B09 /* Main.storyboard in Resources */,
